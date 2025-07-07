@@ -10,9 +10,7 @@ I'm a graduate student passionate about .NET, C#, and Artificial Intelligence. I
 - 🔧 Git, GitHub, Visual Studio, VS Code
 
 ## 🌟 Featured Projects
-- `AI-Enhanced Chatbot with C#` – A smart bot that learns and interacts using ML.NET.
-- `Student Management System` – CRUD app in ASP.NET Core with layered architecture.
-- More coming soon – stay tuned!
+
 
 ## 📫 Reach Me
 [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your.email@example.com)
