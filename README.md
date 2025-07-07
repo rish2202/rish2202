@@ -13,4 +13,4 @@ I'm a graduate student passionate about .NET, C#, and Artificial Intelligence. I
 
 
 ## 📫 Reach Me
-[LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your.email@example.com)
+[[LinkedIn](https://linkedin.com/in/your-profile)](https://www.linkedin.com/in/rishika-m-536960248/) | [Email](mailto:your.email@example.com)
