@@ -4,9 +4,8 @@ I'm a graduate student passionate about .NET, C#, and Artificial Intelligence. I
 
 ## 🛠 Technologies & Tools
 - 💻 C#, ASP.NET Core, .NET 6
-- 🧠 AI & ML: ML.NET, basic Python ML models
 - 🗄 SQL Server, Entity Framework
-- 🌐 HTML/CSS, JavaScript, Razor Pages
+- 🌐 HTML/CSS
 - 🔧 Git, GitHub, Visual Studio, VS Code
 
 ## 🌟 Featured Projects
